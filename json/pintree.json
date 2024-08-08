@@ -141,6 +141,13 @@
             "title": "个人资料 | AList 管理",
             "icon": "https://logo.clearbit.com/127.0.0.1",
             "url": "http://127.0.0.1:5244/@manage"
+          },
+          {
+            "type": "link",
+            "addDate": 1510210628397,
+            "title": "shadowsocks帐号信息 - PGfast网络加速器",
+            "icon": "https://logo.clearbit.com/www.pgfss.com",
+            "url": "http://www.pgfss.com/userinfo.php?user=1443923801"
           }
         ]
       },
@@ -1312,20 +1319,6 @@
             "url": "https://www.yueqiquan.com/a23003.html"
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1489749152171,
-        "title": "我的书签 | 收趣云书签 - 我的云端收藏夹,稍后阅读神器",
-        "icon": "https://logo.clearbit.com/shouqu.me",
-        "url": "http://shouqu.me/my.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1510210628397,
-        "title": "shadowsocks帐号信息 - PGfast网络加速器",
-        "icon": "https://logo.clearbit.com/www.pgfss.com",
-        "url": "http://www.pgfss.com/userinfo.php?user=1443923801"
       }
     ]
   },
